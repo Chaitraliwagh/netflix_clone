@@ -1,0 +1,320 @@
+{
+  "categories": [
+    {
+      "id": "featured",
+      "name": "Featured",
+      "movies": [
+        {
+          "id": "1",
+          "title": "Stranger Things",
+          "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl. A love letter to the '80s classics that captivated a generation.",
+          "imageUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=1200&q=80",
+          "rating": 8.7,
+          "year": 2016,
+          "duration": "50m",
+          "genre": ["Sci-Fi", "Horror", "Drama"],
+          "isTrending": true,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "2",
+          "title": "The Crown",
+          "description": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+          "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80",
+          "rating": 8.6,
+          "year": 2016,
+          "duration": "58m",
+          "genre": ["Drama", "History"],
+          "isTrending": true,
+          "isContinueWatching": true,
+          "watchProgress": 0.45
+        },
+        {
+          "id": "3",
+          "title": "Dark",
+          "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations in a German town.",
+          "imageUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=1200&q=80",
+          "rating": 8.8,
+          "year": 2017,
+          "duration": "60m",
+          "genre": ["Sci-Fi", "Thriller", "Mystery"],
+          "isTrending": true,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "name": "Trending Now",
+      "movies": [
+        {
+          "id": "4",
+          "title": "Squid Game",
+          "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly stakes.",
+          "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+          "rating": 8.0,
+          "year": 2021,
+          "duration": "55m",
+          "genre": ["Thriller", "Drama"],
+          "isTrending": true,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "5",
+          "title": "Money Heist",
+          "description": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.",
+          "imageUrl": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=1200&q=80",
+          "rating": 8.2,
+          "year": 2017,
+          "duration": "70m",
+          "genre": ["Crime", "Thriller"],
+          "isTrending": true,
+          "isContinueWatching": true,
+          "watchProgress": 0.72
+        },
+        {
+          "id": "6",
+          "title": "Ozark",
+          "description": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss.",
+          "imageUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1200&q=80",
+          "rating": 8.5,
+          "year": 2017,
+          "duration": "60m",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "7",
+          "title": "Peaky Blinders",
+          "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+          "imageUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1200&q=80",
+          "rating": 8.8,
+          "year": 2013,
+          "duration": "60m",
+          "genre": ["Crime", "Drama"],
+          "isTrending": true,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        }
+      ]
+    },
+    {
+      "id": "continue_watching",
+      "name": "Continue Watching",
+      "movies": [
+        {
+          "id": "2",
+          "title": "The Crown",
+          "description": "This drama follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+          "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80",
+          "rating": 8.6,
+          "year": 2016,
+          "duration": "58m",
+          "genre": ["Drama", "History"],
+          "isTrending": true,
+          "isContinueWatching": true,
+          "watchProgress": 0.45
+        },
+        {
+          "id": "5",
+          "title": "Money Heist",
+          "description": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.",
+          "imageUrl": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=1200&q=80",
+          "rating": 8.2,
+          "year": 2017,
+          "duration": "70m",
+          "genre": ["Crime", "Thriller"],
+          "isTrending": true,
+          "isContinueWatching": true,
+          "watchProgress": 0.72
+        },
+        {
+          "id": "8",
+          "title": "Breaking Bad",
+          "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine to secure his family's future.",
+          "imageUrl": "https://images.unsplash.com/photo-1560343776-97e7d202ff0e?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1560343776-97e7d202ff0e?w=1200&q=80",
+          "rating": 9.5,
+          "year": 2008,
+          "duration": "49m",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "isTrending": false,
+          "isContinueWatching": true,
+          "watchProgress": 0.3
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "name": "Action & Adventure",
+      "movies": [
+        {
+          "id": "9",
+          "title": "Extraction",
+          "description": "A hardened mercenary's mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+          "imageUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200&q=80",
+          "rating": 6.7,
+          "year": 2020,
+          "duration": "116m",
+          "genre": ["Action", "Thriller"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "10",
+          "title": "The Old Guard",
+          "description": "A covert group of immortal mercenaries are suddenly exposed and must fight to keep their secret safe while one of their own goes rogue.",
+          "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&q=80",
+          "rating": 6.6,
+          "year": 2020,
+          "duration": "125m",
+          "genre": ["Action", "Fantasy"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "11",
+          "title": "Red Notice",
+          "description": "An FBI agent tracking the world's most wanted art thief becomes his reluctant partner in crime to catch an even worse crook.",
+          "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+          "rating": 6.3,
+          "year": 2021,
+          "duration": "118m",
+          "genre": ["Action", "Comedy", "Crime"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "12",
+          "title": "Army of the Dead",
+          "description": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble by venturing into the quarantine zone for the greatest heist ever attempted.",
+          "imageUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=1200&q=80",
+          "rating": 5.9,
+          "year": 2021,
+          "duration": "148m",
+          "genre": ["Action", "Horror"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        }
+      ]
+    },
+    {
+      "id": "drama",
+      "name": "Critically Acclaimed",
+      "movies": [
+        {
+          "id": "8",
+          "title": "Breaking Bad",
+          "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine to secure his family's future.",
+          "imageUrl": "https://images.unsplash.com/photo-1560343776-97e7d202ff0e?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1560343776-97e7d202ff0e?w=1200&q=80",
+          "rating": 9.5,
+          "year": 2008,
+          "duration": "49m",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "isTrending": false,
+          "isContinueWatching": true,
+          "watchProgress": 0.3
+        },
+        {
+          "id": "13",
+          "title": "The Witcher",
+          "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+          "imageUrl": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=1200&q=80",
+          "rating": 8.2,
+          "year": 2019,
+          "duration": "60m",
+          "genre": ["Fantasy", "Action", "Adventure"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "14",
+          "title": "Mindhunter",
+          "description": "In the late 1970s two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+          "imageUrl": "https://images.unsplash.com/photo-1590602847861-f45433d009de?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1590602847861-f45433d009de?w=1200&q=80",
+          "rating": 8.6,
+          "year": 2017,
+          "duration": "54m",
+          "genre": ["Crime", "Drama", "Thriller"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        }
+      ]
+    },
+    {
+      "id": "comedy",
+      "name": "Feel-Good Shows",
+      "movies": [
+        {
+          "id": "15",
+          "title": "Emily in Paris",
+          "description": "A young American woman from Chicago is hired by a French marketing firm, and though she struggles to fit in, she builds new relationships that transform her life.",
+          "imageUrl": "https://images.unsplash.com/photo-1431274172761-fca41d930114?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1431274172761-fca41d930114?w=1200&q=80",
+          "rating": 7.0,
+          "year": 2020,
+          "duration": "30m",
+          "genre": ["Comedy", "Drama", "Romance"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "16",
+          "title": "Never Have I Ever",
+          "description": "A first-generation Indian American teen girl tries to have a more 'normal' adolescence after a traumatic year — but her friend group complicates her plans.",
+          "imageUrl": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?w=1200&q=80",
+          "rating": 7.9,
+          "year": 2020,
+          "duration": "30m",
+          "genre": ["Comedy", "Drama", "Romance"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        },
+        {
+          "id": "17",
+          "title": "The Good Place",
+          "description": "A deceased woman finds herself in a heavenly afterlife and must hide the fact that she doesn't belong there while scrambling to improve herself.",
+          "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=800&q=80",
+          "bannerUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=1200&q=80",
+          "rating": 8.2,
+          "year": 2016,
+          "duration": "22m",
+          "genre": ["Comedy", "Fantasy"],
+          "isTrending": false,
+          "isContinueWatching": false,
+          "watchProgress": 0.0
+        }
+      ]
+    }
+  ]
+}
